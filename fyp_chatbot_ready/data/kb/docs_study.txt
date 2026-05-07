@@ -1,9 +1,0 @@
-Spaced repetition:
-- Review notes shortly after learning, then at increasing intervals (1 day, 3 days, 7 days, 14 days).
-Active recall:
-- Test yourself with questions and past papers instead of re-reading.
-Past papers:
-- Do timed practice. Mark honestly, list weak topics, then drill them.
-Revision plan:
-- Break modules into topics.
-- Allocate sessions: (learn -> recall -> past paper -> review mistakes).
